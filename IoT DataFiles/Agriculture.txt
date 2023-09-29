@@ -1,0 +1,20 @@
+Date, Temperature (Celsius), Humidity (%), Soil Moisture (%), Crop Growth (%)
+2023-06-18, 25, 60, 35, 80
+2023-06-19, 26, 55, 40, 82
+2023-06-20, 28, 58, 38, 85
+2023-06-21, 29, 62, 42, 87
+2023-06-22, 30, 58, 39, 90
+2023-06-23, 27, 65, 37, 88
+2023-06-24, 25, 63, 36, 85
+In this example, the data includes the following fields:
+
+Date: The date of the recorded data.
+Temperature (Celsius): The temperature in Celsius at the time of recording.
+Humidity (%): The relative humidity percentage.
+Soil Moisture (%): The soil moisture level as a percentage.
+Crop Growth (%): The growth status of the crop as a percentage.
+Each row represents a specific date's data, with corresponding values for each field. This format allows for easy organization and analysis of agriculture data, enabling farmers and agronomists to track environmental conditions and crop growth over time.
+
+
+
+

@@ -1,0 +1,18 @@
+Infotainment Data:
+
+Date: 2023-06-18
+Time: 15:30:00
+Media Playback: Song "Highway to Hell" by AC/DC
+Volume Level: 80%
+Navigation Destination: 123 Main Street
+Diagnostic Data:
+
+Date: 2023-06-18
+Time: 15:30:00
+Diagnostic Code: P0420
+Description: Catalytic converter efficiency below threshold
+Mileage: 50,000 km
+Fuel Consumption: 8.5 L/100km
+Battery Voltage: 12.3V
+
+this is a simplified representation of IoT data for connected vehicles, and the actual data format and content may vary depending on the specific vehicle's make, model, and IoT systems integrated within it.

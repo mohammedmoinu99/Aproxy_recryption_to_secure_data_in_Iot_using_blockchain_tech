@@ -1,0 +1,40 @@
+Air Quality Sensor:
+
+Date: 2023-06-18
+Time: 10:00:00
+Location: Living Room
+PM2.5: 15 μg/m³
+PM10: 25 μg/m³
+CO2: 800 ppm
+VOC: 100 ppb
+Humidity Sensor:
+
+Date: 2023-06-18
+Time: 10:00:00
+Location: Bedroom
+Humidity: 55%
+Noise Level Sensor:
+
+Date: 2023-06-18
+Time: 10:00:00
+Location: Office
+Noise Level: 60 dB
+Light Sensor:
+
+Date: 2023-06-18
+Time: 10:00:00
+Location: Kitchen
+Light Intensity: 800 lux
+Temperature Sensor:
+
+Date: 2023-06-18
+Time: 10:00:00
+Location: Bathroom
+Temperature: 25.5°C
+UV Index Sensor:
+
+Date: 2023-06-18
+Time: 10:00:00
+Location: Outdoor
+UV Index: 5
+Please note that this is a simplified representation of IoT data for environmental sensors, and the actual data format and content may vary depending on the specific sensor types, manufacturers, and protocols used for data transmission and storage.

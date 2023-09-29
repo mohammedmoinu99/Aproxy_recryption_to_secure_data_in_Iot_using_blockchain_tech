@@ -1,0 +1,22 @@
+Device: Smart Thermostat
+Timestamp: 2023-06-18 09:30:00
+Temperature: 22.5°C
+Humidity: 45%
+Occupancy: True
+
+Device: Security Camera
+Timestamp: 2023-06-18 12:15:00
+Event: Motion Detected
+Location: Living Room
+Video URL: https://example.com/videos/1234567890
+
+Device: Smart Lighting System
+Timestamp: 2023-06-18 18:00:00
+Event: Lights Turned On
+Brightness: 80%
+Color: Warm White
+
+Device: Smart Appliance - Refrigerator
+Timestamp: 2023-06-18 14:45:00
+Event: Door Opened
+Temperature: -2°C

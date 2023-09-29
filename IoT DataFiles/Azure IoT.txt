@@ -1,0 +1,28 @@
+GPS Data:
+
+Date: 2023-06-18
+Time: 15:30:00
+Latitude: 37.7749° N
+Longitude: 122.4194° W
+Speed: 60 km/h
+Heading: 90° (East)
+Satellites in View: 12
+Sensor Data:
+
+Date: 2023-06-18
+Time: 15:30:00
+Acceleration: 0.2 m/s^2
+Brake Status: Not applied
+Steering Angle: -5°
+Tire Pressure (Front Left): 34 PSI
+Fuel Level: 70%
+Engine Temperature: 90°C
+Camera Data:
+
+Date: 2023-06-18
+Time: 15:30:00
+Camera ID: Front View
+Image: front_view_camera_20230618_153000.jpg
+
+
+this is a simplified representation of IoT data for connected vehicles, and the actual data format and content may vary depending on the specific vehicle's make, model, and IoT systems integrated within it.
