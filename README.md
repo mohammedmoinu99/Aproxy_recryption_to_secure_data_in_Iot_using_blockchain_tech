@@ -16,7 +16,7 @@ performance with existing schemes.
  
 # Advantages  
 1) The proposed system is secure against man-in-the-middle (MITM) attacks. MITM attacks get to 
-the certificate authority (CA) to provide the user with forged public keys. 
+the certificate authority CA) to provide the user with forged public keys. 
  2) The proposed system finds Data Tampering and blocks when hackers compromise a system, they 
 inject their own versions of the
 
